@@ -1,14 +1,61 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "pelanggan": [
+    {
+      "id": "kd1",
+      "Nama": "Azri Akmal",
+      "Usia": "23",
+      "JK": "Laki - Laki",
+      "Alamat": "Jati",
+      "NoTelp": "0858",
+      "Email": "@gmail.com"
+    },
+    {
+      "id": "kd2",
+      "Nama": "Enci",
+      "Usia": "28",
+      "JK": "Perempuan",
+      "Alamat": "Munjul",
+      "NoTelp": "0812",
+      "Email": "@gmail.com"
+    },
+    {
+      "id": "kd3",
+      "Nama": "Budi",
+      "Usia": "23",
+      "JK": "Laki - Laki",
+      "Alamat": "Cibubur",
+      "NoTelp": "0856",
+      "Email": "@gmail.com"
+    },
+    {
+      "id": "kd4",
+      "Nama": "Abdul",
+      "Usia": "45",
+      "JK": "Laki - Laki",
+      "Alamat": "Cipayung",
+      "NoTelp": "0888",
+      "Email": "@gmail.com"
+    },
+    {
+      "id": "kd5",
+      "Nama": "bdelu",
+      "Usia": "23",
+      "JK": "Laki - Laki",
+      "Alamat": "Jati",
+      "NoTelp": "0856",
+      "Email": "@gmail.com"
+    },
+    {
+      "id": "kd6",
+      "Nama": "Mamang",
+      "Usia": "43",
+      "JK": "Laki - Laki",
+      "Alamat": "Kranggan",
+      "NoTelp": "0888",
+      "Email": "@gmail.com"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "sepeda": [],
+  "sewa": [],
+  "petugas": []
 }
